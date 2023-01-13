@@ -1,6 +1,6 @@
 ---
-name: "@yourGitHubUsername"
-project: "Your Project Name Here"
+name: "@Raymond131"
+project: "Computer Vision Raspberry Pi Drone"
 ---
 
 # Project Name: Computer Vision Raspberry Pi Drone
