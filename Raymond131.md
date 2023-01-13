@@ -15,6 +15,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 ## Budget
 
+flsdfkdsfkdsalkfdsafdskflkjdsf;lksa
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
