@@ -7,7 +7,7 @@ project: "Computer Vision Raspberry Pi Drone"
 
 ## Summary
 
-Build a lidar capable drone using a stereo camera and Raspberry Pi Zero W setup.
+Build a lidar capable 250mm sized drone using a stereo camera and Raspberry Pi Zero W setup.
 The drone will be capable of 3D position and pose estimation using april tags or some other visual fiducials. 
 
 ## Plan
@@ -18,10 +18,10 @@ Apriltag detection and pose estimation has already been tested on laptop cameras
 
 ## Budget
 
-flsdfkdsfkdsalkfdsafdskflkjdsf;lksa
+
 | Product                | Supplier/Link                                                                                                          | Cost   |
 | ---------------        | -------------------------------------                                                                                  | ------ |
-| Soldering kit        | [https://www.amazon.ca/gp/product/B089SKWMPT/ref=ox_sc_act_title_2?smid=AT8B8CMKBF3NX&psc=1 ](https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07Q2B4ZY9/ref=sr_1_3?keywords=soldering+starter+kit&qid=1672984829&sr=8-3)                                   |$27.99|
+| Soldering kit        | https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07Q2B4ZY9/ref=sr_1_3?keywords=soldering+starter+kit&qid=1672984829&sr=8-3                                                                                               |$27.99|
 | Tip tinner             | https://www.amazon.ca/gp/product/B00NS4J6BY/ref=ox_sc_act_title_3?smid=A614WYM65K035&psc=1                             |$8.90|
 | Electrical solder      | https://www.amazon.ca/gp/product/B075WB98FJ/ref=ox_sc_act_title_1?smid=A25N4YN27ERTBB&psc=1                            |$13.98|
 | Raspberry Pi Zero W    | https://www.walmart.ca/en/ip/Raspberry-Pi-Zero-W-Starter-Kit-And-Accessories/PRD4I8NV1BP9Y0M?skuId=4I8NV1BP9Y0M&offerId=AF223F6F822A4719ABD9AA5D2408B53E&utm_medium=paid_search&utm_source=google&utm_campaign=always_on&cmpid=SEM_CA_312_50W1NMFMAF_71700000099943876_58700008013744816&utm_id=SEM_CA_312_50W1NMFMAF_71700000099943876_58700008013744816&gclid=Cj0KCQiAn4SeBhCwARIsANeF9DI0D0fO9zcY1GQS2f9kmN9Vd_5pPNcfupDZJSm6ZTtGN8VJJnMoMT8aAo6kEALw_wcB&gclsrc=aw.ds                                                                                            |$41.53|
